@@ -1,0 +1,1 @@
+La prima cartella si è rotta in qualche modo e ho crato una nuova working copy su cui lavorare. Il malfunzionamento era solamente locale
