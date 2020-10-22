@@ -14,6 +14,7 @@ Your working copy remains on the previous path. If you want your next changes
 to be committed to the copy or branch you have just created,
 then you need to switch your working copy over to the new URL.
 Use the Switch command to do that. "
+Problema dovuto dal fatto che non ho creato la directory che ospita la copia di trunk
 
 -modificare il branch
 -merge dal branch al trunk
