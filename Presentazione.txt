@@ -1,9 +1,11 @@
 Obbiettivi:
--fare il commit 
--modificare il file
--fare un update e vedere che succede
-
--modifico il file e faccio il commit (creo un conflitto)
+-fare il commit v
+-modificare il file v
+-fare un update e vedere che succede non vengono rimossi le modifiche al file (perchè? vedi 4a righa dopo)
+-allora creo un'altra working copy v
+-modifico il file modificato in locale v
+-faccio il commit e vedo che succede, mi aspetto che ci sia un conflitto da risolvere v
+=>conflitto accaduto, posso modificare direttamente il file da TSVN, l'update quindi interagisce solamente se ci sono modifiche sul repository
 
 -creare un nuovo branch che contine una copia del trunk
 -modificare il branch
