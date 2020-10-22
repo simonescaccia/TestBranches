@@ -16,6 +16,12 @@ then you need to switch your working copy over to the new URL.
 Use the Switch command to do that. "
 Problema dovuto dal fatto che non ho creato la directory che ospita la copia di trunk
 
+-La copia è stata creata lo stesso, inaspettatamente solo sul repository e non sulla cartella locale, quindi ho dovuto fare un update per  vedere la modifica
+-riprovare la procedura da capo, cioè creare un altro branch e osservare ciò che succede
+
++Ulteriore problema non mi fa fare il merge per inserire nel branch le modifiche nel trunk.
+-Seguendo l'errore notificato prima, ho fatto lo switch della working directory e sono state aggiunte le modifiche nel branch
+
 -modificare il branch
 -merge dal branch al trunk
 -modificare il branch
