@@ -3,6 +3,8 @@ Obbiettivi:
 -modificare il file
 -fare un update e vedere che succede
 
+-modifico il file e faccio il commit (creo un conflitto)
+
 -creare un nuovo branch che contine una copia del trunk
 -modificare il branch
 -merge dal branch al trunk
