@@ -8,6 +8,13 @@ Obbiettivi:
 =>conflitto accaduto, posso modificare direttamente il file da TSVN, l'update quindi interagisce solamente se ci sono modifiche sul repository
 
 -creare un nuovo branch che contine una copia del trunk
+Ho ricevuto questo errore cercando di creare un nuovo branch
+"Please note:
+Your working copy remains on the previous path. If you want your next changes
+to be committed to the copy or branch you have just created,
+then you need to switch your working copy over to the new URL.
+Use the Switch command to do that. "
+
 -modificare il branch
 -merge dal branch al trunk
 -modificare il branch
