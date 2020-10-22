@@ -1,0 +1,12 @@
+Obbiettivi:
+-fare il commit 
+-modificare il file
+-fare un update e vedere che succede
+
+-creare un nuovo branch che contine una copia del trunk
+-modificare il branch
+-merge dal branch al trunk
+-modificare il branch
+-modificare il trunk non creando un conflitto
+-modificare il trunk creando un conflitto
+-merge dal branch al trunk risolvendo il conflitto 
