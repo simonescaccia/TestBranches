@@ -30,6 +30,8 @@ Problema dovuto dal fatto che non ho creato la directory che ospita la copia di 
 
 -modificare il branch v
 -merge from trunk to merge (prima di fare un merge bisogna fare il commit di eventuali modifiche)
+ Ricevo un problema out of date, possibile bug di tortoise SVN, poichè facendo l'update non risolve l'errore e inoltre non c'è nulla da committare.
+ Provo a risolvere aggiornando la repository da una seconda working copy. (Non funziona)
 -provare la prima opzione di merge
 
 -modificare il branch
