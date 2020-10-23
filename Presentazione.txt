@@ -28,8 +28,10 @@ Problema dovuto dal fatto che non ho creato la directory che ospita la copia di 
 
 (*=>)
 
--modificare il branch
--merge dal branch al trunk
+-modificare il branch v
+-merge from trunk to merge (prima di fare un merge bisogna fare il commit di eventuali modifiche)
+-provare la prima opzione di merge
+
 -modificare il branch
 -modificare il trunk non creando un conflitto
 -modificare il trunk creando un conflitto
