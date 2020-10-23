@@ -1,1 +1,3 @@
 La prima cartella si è rotta in qualche modo e ho crato una nuova working copy su cui lavorare. Il malfunzionamento era solamente locale
+
+Problema con il merge, ricevo l'errore che che qualcosa è out of date ma non c'è nulla nel commit e l'update non elimina il problema. Provo a committare di nuovo questo file.
