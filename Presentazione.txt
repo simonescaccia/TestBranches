@@ -32,7 +32,6 @@ Problema dovuto dal fatto che non ho creato la directory che ospita la copia di 
 -merge from trunk to merge (prima di fare un merge bisogna fare il commit di eventuali modifiche)
  Ricevo un problema out of date, possibile bug di tortoise SVN, poichè facendo l'update non risolve l'errore e inoltre non c'è nulla da committare.
  Provo a risolvere aggiornando la repository da una seconda working copy. (Non funziona)
- Il problema è relativo all'aggiungere il file try_to_unbug.txt, mentre il merge di presentazione.txt con conflitto non da problemi
 -provare la prima opzione di merge
 
 -modificare il branch
